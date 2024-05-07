@@ -1,0 +1,9 @@
+{
+	"name"        : "reanalysis-era5-single-levels",
+	"product_type": "reanalysis",
+	"format"      : "netcdf",
+	"variable"    : ["total_cloud_cover"],
+	"year"        : ["2023"],
+	"month"       : ["01"],
+	"area"        : [45, -15, 33, 35.5]
+}
