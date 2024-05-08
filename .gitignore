@@ -158,3 +158,5 @@ dmypy.json
 #   Used by r-lib/r-tidy
 .R/
 .cache/
+
+resources/reanalysis-era5-single-levels
