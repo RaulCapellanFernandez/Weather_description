@@ -34,7 +34,7 @@ All the valuable information generated will be stored in a parquet file or a dat
 
 ## 📷 Description of Webcam Images
 
-Now, let's dive into the fascinating world of webcam image description!
+Now, let's dive into the world of webcam image description
 
 ### 2. Dataset Utilization 📚
 
