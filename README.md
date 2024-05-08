@@ -28,7 +28,7 @@ The API provided by OpenAI will be an option to use Chat GPT models for inferenc
 
 We'll explore advanced techniques such as RAG and transfer learning to enhance the quality of descriptions for weather variables.
 
-#### 4. Data Storage 💾
+##### 1.6. Data Storage 💾
 
 All the valuable information generated will be stored in a parquet file or a database format for easy access and usage in the training process.
 
