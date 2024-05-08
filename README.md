@@ -1,8 +1,8 @@
 # ⛅️ Weather Description Dataset and Webcam Image Description
 
-## 🌦️ Creation of a Weather Description Dataset
-
 Welcome to the Weather Description Dataset project! Our mission is to craft a comprehensive dataset for weather description using webcam images of landscapes. Here's how we'll do it:
+
+## 🌦️ Creation of a Weather Description Dataset
 
 ### 1. Data Collection 📸
 
