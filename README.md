@@ -16,15 +16,15 @@ Next, we'll dive into the ERA5 reanalysis data to fetch detailed information on 
 
 Using Language Models (LLMs), we'll create prompts to describe various types of clouds based on the values of the chosen weather variables. Here are the techniques we'll explore:
 
-##### 1.3 LLAMA Models 🦙
+##### 1.2.1 LLAMA Models 🦙
 
 We'll utilize LLAMA models for inference to generate descriptions, as the main open source LLMs at the moment.
 
-##### 1.4 Chat GPT Models 💬
+##### 1.2.2 Chat GPT Models 💬
 
 The API provided by OpenAI will be an option to use Chat GPT models for inference and description generation.
 
-##### 1.5 RAG and Transfer Learning Strategies 🔄
+##### 1.2.3 RAG and Transfer Learning Strategies 🔄
 
 We'll explore advanced techniques such as RAG and transfer learning to enhance the quality of descriptions for weather variables.
 
