@@ -1,0 +1,16 @@
+{
+	"locations": [
+		{
+			"name" : "Catedral de Burgos",
+			"id"   : "cburgos",
+			"lat"  : 42.33998,
+			"lon"  : -3.70373
+		},
+		{
+			"name" : "El Pobo – vista desde Mirador Hoyalta",
+			"id"   : "pobo",
+			"lat"  : 40.53797,
+			"lon"  : -0.91138
+		}
+	]
+}
