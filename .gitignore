@@ -160,3 +160,4 @@ dmypy.json
 .cache/
 
 resources/reanalysis-era5-single-levels
+.env
