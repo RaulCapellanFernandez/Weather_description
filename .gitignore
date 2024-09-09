@@ -159,6 +159,7 @@ dmypy.json
 .R/
 .cache/
 
+resources/snapshot-ai
 resources/reanalysis-era5-single-levels
 resources/result_gis
 .env
