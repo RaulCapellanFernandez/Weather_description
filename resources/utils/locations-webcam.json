@@ -1,10 +1,16 @@
 {
 	"locations": [
 		{
-			"name" : "Catedral de Burgos",
-			"id"   : "cburgos",
-			"lat"  : 42.33998,
-			"lon"  : -3.70373
+			"name" : "ALcalá de la Selva - San Rafael",
+			"id"   : "alcala",
+			"lat"  : 40.371816,
+			"lon"  : -0.719747
+		},
+		{
+			"name" : "Albentosa",
+			"id"   : "albentosa",
+			"lat"  : 40.102506,
+			"lon"  : -0.769744
 		},
 		{
 			"name" : "El Pobo – vista desde Mirador Hoyalta",
