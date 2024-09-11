@@ -160,7 +160,7 @@ dmypy.json
 .cache/
 
 resources/images_windy
-resources/snapshot-ai
+resources/images_ibericam
 resources/reanalysis-era5-single-levels
 resources/result_gis
 .env
