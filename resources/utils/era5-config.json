@@ -3,7 +3,7 @@
 	"product_type": "reanalysis",
 	"format"      : "netcdf",
 	"variable"    : ["cloud_base_height", "high_cloud_cover", "low_cloud_cover", "medium_cloud_cover", "total_cloud_cover"],
-	"year"        : ["2024"],
-	"month"       : ["01", "02", "03", "04"],
+	"year"        : ["2023", "2024"],
+	"month"       : ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"],
 	"area"        : [45, -15, 33, 35.5]
 }
