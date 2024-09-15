@@ -2,7 +2,7 @@
 	"locations": [
 		{
 			"name" : "ALcalá de la Selva - San Rafael",
-			"id"   : "alcala",
+			"id"   : "alcala_de_la_selva_san_rafael",
 			"lat"  : 40.371816,
 			"lon"  : -0.719747
 		},
@@ -14,7 +14,7 @@
 		},
 		{
 			"name" : "El Pobo – vista desde Mirador Hoyalta",
-			"id"   : "pobo",
+			"id"   : "el_pobo",
 			"lat"  : 40.53797,
 			"lon"  : -0.91138
 		}
