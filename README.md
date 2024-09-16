@@ -8,11 +8,11 @@ Welcome to the Weather Description Dataset project! Our mission is to craft a co
 
 We'll kickstart our project by gathering webcam images of landscapes from the desired area. These images will be our main source of data.
 
-#### 1.1 Data Retrieval 🌍
+#### 1.1 Data Retrieval 🌍✔️
 
 Next, we'll dive into the ERA5 reanalysis data to fetch detailed information on selected weather variables (cloud variables in the beginning).
 
-#### 1.2 Description Generation ✍️
+#### 1.2 Description Generation ✍️ 🛠️
 
 Using Language Models (LLMs), we'll create prompts to describe various types of clouds based on the values of the chosen weather variables. Here are the techniques we'll explore:
 
@@ -20,7 +20,7 @@ Using Language Models (LLMs), we'll create prompts to describe various types of 
 
 We'll utilize LLAMA models for inference to generate descriptions, as the main open source LLMs at the moment.
 
-##### 1.2.2 Chat GPT Models 💬
+##### 1.2.2 Chat GPT Models 💬 🛠️
 
 The API provided by OpenAI will be an option to use Chat GPT models for inference and description generation.
 
