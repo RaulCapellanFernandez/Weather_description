@@ -32,3 +32,7 @@ python-dotenv
 langchain_community
 pypdf
 chromadb
+
+# Metrics
+pycocoevalcap==1.2
+bert-score==0.3.13
