@@ -36,3 +36,4 @@ chromadb
 # Metrics
 pycocoevalcap==1.2
 bert-score==0.3.13
+gputil==1.4.0
