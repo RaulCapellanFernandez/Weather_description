@@ -28,10 +28,15 @@ jupyterlab_widgets==3.0.13
 ipykernel==6.29.5
 ipywidgets==8.1.5
 
+# RAG
 python-dotenv
 langchain_community
 pypdf
 chromadb
+bitsandbytes==0.48.1
+accelerate==1.10.1
+sentence-transformers==5.1.1
+langchain-community==0.3.31
 
 # Metrics
 pycocoevalcap==1.2
