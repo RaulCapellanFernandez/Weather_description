@@ -1,13 +1,13 @@
 ## PYTHON 3.11.11
 
 # TENSORFLOW
-tensorflow==2.18.0
+tensorflow[and-cuda]==2.18.0rc0
 tensorflow-datasets==4.9.8
 tensorflow-hub==0.16.1
 
 # KERAS
 keras==3.8.0
-tf_keras==2.18.0
+tf_keras==2.18.0rc0
 
 # PANDAS
 geopandas==1.0.1
@@ -33,7 +33,7 @@ python-dotenv
 langchain_community
 pypdf
 chromadb
-bitsandbytes==0.48.1
+#bitsandbytes==0.48.1
 accelerate==1.10.1
 sentence-transformers==5.1.1
 langchain-community==0.3.31
