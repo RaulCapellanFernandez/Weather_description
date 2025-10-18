@@ -1,0 +1,44 @@
+## PYTHON 3.11.11
+
+# TENSORFLOW
+tensorflow[and-cuda]==2.18.0
+tensorflow-datasets==4.9.8
+tensorflow-hub==0.16.1
+
+# KERAS
+keras==3.8.0
+tf_keras==2.18.0
+
+# PANDAS
+geopandas==1.0.1
+pandas==2.2.2
+sklearn-pandas==2.2.0
+sklearn-compat==0.1.3
+
+# OTHERS
+xarray==2025.1.2
+polars==1.21.0
+pillow==11.1.0
+matplotlib==3.10.1
+nltk==3.9.1
+
+jupyterlab==4.3.6
+notebook==7.3.3
+jupyterlab_widgets==3.0.13
+ipykernel==6.29.5
+ipywidgets==8.1.5
+
+# RAG
+python-dotenv
+langchain_community
+pypdf
+chromadb
+#bitsandbytes==0.48.1
+accelerate==1.10.1
+sentence-transformers==5.1.1
+langchain-community==0.3.31
+
+# Metrics
+pycocoevalcap==1.2
+bert-score==0.3.13
+gputil==1.4.0
