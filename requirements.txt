@@ -1,13 +1,13 @@
 ## PYTHON 3.11.11
 
 # TENSORFLOW
-tensorflow[and-cuda]==2.18.0rc0
+tensorflow[and-cuda]==2.18.0
 tensorflow-datasets==4.9.8
 tensorflow-hub==0.16.1
 
 # KERAS
 keras==3.8.0
-tf_keras==2.18.0rc0
+tf_keras==2.18.0
 
 # PANDAS
 geopandas==1.0.1
