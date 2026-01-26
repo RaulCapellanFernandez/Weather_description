@@ -24,7 +24,7 @@ We'll utilize LLAMA models for inference to generate descriptions, as the main o
 
 The API provided by OpenAI will be an option to use Chat GPT models for inference and description generation.
 
-##### 1.2.3 RAG and Transfer Learning Strategies 🔄
+##### 1.2.3 RAG and Transfer Learning Strategies ✔️
 
 We'll explore advanced techniques such as RAG and transfer learning to enhance the quality of descriptions for weather variables.
 
@@ -48,10 +48,6 @@ Two options are planned to the training part:
 #### 2.1.1 Generating a New Model 🆕✔️
 
 We'll engineer a cutting-edge model designed to describe webcam images, powered by our curated dataset.
-
-#### 2.1.2 Transfer Learning 🔄
-
-We'll adapt a pre-trained model using transfer learning techniques to integrate it with the weather characteristics of our dataset.
 
 
 ## 🌍 Final Applications
